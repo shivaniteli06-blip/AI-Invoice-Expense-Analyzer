@@ -1,0 +1,31 @@
+date,merchant,description,amount,category,payment_method
+2026-08-01,Swiggy,Online Food Order,500,Food,UPI
+2026-08-03,Zomato,Dinner Order,650,Food,Credit Card
+2026-08-05,Dominos,Pizza Order,700,Food,Cash
+2026-08-07,Cafe Coffee Day,Coffee and Snacks,550,Food,Debit Card
+2026-08-10,Restaurant Spice Garden,Lunch,600,Food,UPI
+2026-08-02,Uber,Cab Ride to Office,400,Travel,UPI
+2026-08-06,Ola,Airport Drop,550,Travel,Credit Card
+2026-08-12,Rapido,Bike Taxi,700,Travel,UPI
+2026-08-04,BESCOM,Electricity Bill August,1500,Utilities,Net Banking
+2026-08-09,Airtel,Mobile Recharge,1700,Utilities,UPI
+2026-08-03,Amazon,Office Stationery,850,Shopping,Credit Card
+2026-08-11,Flipkart,Books Purchase,1200,Shopping,Debit Card
+2026-08-05,Byju's,Online Course Fee,2000,Education,Net Banking
+2026-08-08,Apollo Pharmacy,Medicines,600,Healthcare,Cash
+2026-08-01,WeWork,Office Rent August,12000,Office,Bank Transfer
+2026-08-15,ABC Restaurant,Business Dinner,8500,Food,Credit Card
+2026-07-01,Swiggy,Food Order,480,Food,UPI
+2026-07-05,Zomato,Lunch,620,Food,UPI
+2026-07-10,McDonald's,Dinner,530,Food,Cash
+2026-07-03,Uber,Cab Ride,420,Travel,UPI
+2026-07-08,Ola,Office Travel,500,Travel,Credit Card
+2026-07-04,BESCOM,Electricity Bill July,1450,Utilities,Net Banking
+2026-07-09,Airtel,Mobile Bill,1650,Utilities,UPI
+2026-07-06,Amazon,Books,900,Shopping,Credit Card
+2026-07-12,Pharmacy Plus,Medicines,450,Healthcare,Cash
+2026-06-01,Swiggy,Food Delivery,510,Food,UPI
+2026-06-07,Restaurant,Lunch Meeting,680,Food,Credit Card
+2026-06-03,Uber,Airport Pickup,380,Travel,UPI
+2026-06-05,BESCOM,Electricity Bill June,1480,Utilities,Net Banking
+2026-06-08,Amazon,Office Supplies,780,Office,Credit Card
